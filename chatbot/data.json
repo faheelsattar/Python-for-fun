@@ -1,0 +1,156 @@
+{
+    "data": [
+        {
+            "name": "greetings",
+            "question": [
+                "hey",
+                "hi",
+                "hello"
+            ],
+            "patterns": [
+                "hi",
+                "hey",
+                "hello"
+            ]
+        },
+        {
+            "name": "start",
+            "question": [
+                "how are you",
+                "how was your day",
+                "how are you doing"
+            ],
+            "patterns": [
+                "Am great",
+                "it was great",
+                "Great!!"
+            ]
+        },
+        {
+            "name": "name",
+            "question": [
+                "what is your name",
+                "name please?"
+            ],
+            "patterns": [
+                "My name is Elle, How may I help you"
+            ]
+        },
+        {
+            "name": "menu",
+            "question": [
+                "whats in the menu",
+                "Can you please provide me with the menu "
+            ],
+            "patterns": [
+                {
+                    "starters": [
+                        "cheese balls",
+                        "chicken corn soup",
+                        "mozrella sticks",
+                        "prawn crisps",
+                        "chicken wings",
+                        "wontons",
+                        "bar-b-q cheese salad"
+                    ],
+                    "maincourse": [
+                        "bar-b-q pizza",
+                        "chicken burger",
+                        "chicken chowmin",
+                        "cheese pizza",
+                        "cheese bourito",
+                        "prawn bourito",
+                        "bar-b-q chicken wrap"
+                    ],
+                    "deserts": [
+                        "chocolate cake",
+                        "apple pie",
+                        "alaska cake",
+                        "strawberry icecream",
+                        "chocolate muffin",
+                        "apple creame custard",
+                        "strawberry cheese cake",
+                        "chocolate icecream"
+                    ]
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "userid": 1,
+            "username": "Faheel Sattar",
+            "preference": [
+                "strawberry icecream"
+            ]
+        },
+        {
+            "userid": 2,
+            "username": "Syeda Shanzae Zeeshan",
+            "preference": [
+                "bar-b-q pizza"
+            ]
+        },
+        {
+            "userid": 3,
+            "username": "Faizan Nehal",
+            "preference": [
+                "prawn crisps"
+            ]
+        },
+        {
+            "userid": 4,
+            "username": "Anas Afzal",
+            "preference": [
+                "chicken burger",
+                "cheese balls",
+                "chocolate icecream"
+            ]
+        },
+        {
+            "userid": 5,
+            "username": "Rameen Sattar",
+            "preference": [
+                "chicken chowmin",
+                "apple pie"
+            ]
+        },
+        {
+            "userid": 6,
+            "username": "Abdullah sattar",
+            "preference": [
+                "bar-b-q pizza",
+                "chicken burger"
+            ]
+        },
+        {
+            "userid": 7,
+            "username": "Tayyaba sattar",
+            "preference": [
+                "chicken burger"
+            ]
+        },
+        {
+            "userid": 8,
+            "username": "Abdull Sattar",
+            "preference": [
+                "strawberry icecream"
+            ]
+        },
+        {
+            "userid": 9,
+            "username": "Rafay Khalid",
+            "preference": [
+                "chicken corn soup"
+            ]
+        },
+        {
+            "userid": 10,
+            "username": "General Bajwa",
+            "preference": [
+                "cheese balls",
+                "prawn bourito"
+            ]
+        }
+    ]
+}
